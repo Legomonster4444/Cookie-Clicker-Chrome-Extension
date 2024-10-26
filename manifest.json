@@ -6,9 +6,9 @@
     "browser_action": {
       "default_popup": "index.html",
       "default_icon": {
-        "16": "icon16.png",
-        "48": "icon48.png",
-        "128": "icon128.png"
+        "16": "Cookie_Clicker_Game_Chrome_Extension_Icon_with_bgc.png",
+        "48": "Cookie_Clicker_Game_Chrome_Extension_Icon_with_bgc (1).png",
+        "128": "Cookie Clicker Game Chrome Extension Icon.png"
       }
     },
     "permissions": ["activeTab"],
@@ -17,8 +17,8 @@
       "persistent": false
     },
     "icons": {
-      "16": "icon16.png",
-      "48": "icon48.png",
-      "128": "icon128.png"
+      "16": "Cookie_Clicker_Game_Chrome_Extension_Icon_with_bgc.png",
+      "48": "Cookie_Clicker_Game_Chrome_Extension_Icon_with_bgc (1).png",
+      "128": "Cookie Clicker Game Chrome Extension Icon.png"
     }
   }  
